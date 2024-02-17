@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DuckApp</string>
+    <string name="hello">Hello World!</string>
+    <string name="inputText">Введите http код или ничего</string>
+    <string name="generate">Хочу утку!</string>
 </resources>
